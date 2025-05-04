@@ -29,6 +29,7 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav mx-auto">
                         <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="{{ url('/business') }}">Home</a></li>
+                        <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="{{ url('/features') }}">Features</a></li>
                         <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="{{ url('/business/about') }}">About</a></li>
                         <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="{{ url('/business/products') }}">Products</a></li>
                         <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="{{ url('/business/store') }}">Store</a></li>
